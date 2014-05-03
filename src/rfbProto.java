@@ -498,7 +498,7 @@ class rfbProto {
   int negotiateAuthenticationTight() throws Exception {
 	  System.out.println("Negotiate Auth Tight");
     int nAuthTypes = is.readInt();
-    System.out.println("Done ngoriate");
+    System.out.println("Done negotiate");
     if (nAuthTypes == 0)
       return AuthNone;
 
