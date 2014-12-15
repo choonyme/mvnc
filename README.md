@@ -37,7 +37,7 @@ java vncviewer HOST 192.168.0.2 PORT 8888
 
 ### Contact
 
-e-mail: cj@5eejay.com
+e-mail: cj at 5eejay dot com
 
 ### License
 
